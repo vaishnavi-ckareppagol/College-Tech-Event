@@ -1,0 +1,50 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+nav a {
+    color: darkblue;
+    margin: 15px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.event {
+
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid navy;
+    background-color: lavender;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
